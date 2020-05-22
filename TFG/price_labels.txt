@@ -1,0 +1,2 @@
+1	SUBIDO
+2	BAJADO
